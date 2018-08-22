@@ -1,0 +1,5 @@
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\SentenceSplit\SentenceSplit\bin\Debug\SentenceSplit.exe.config
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\SentenceSplit\SentenceSplit\bin\Debug\SentenceSplit.exe
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\SentenceSplit\SentenceSplit\bin\Debug\SentenceSplit.pdb
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\SentenceSplit\SentenceSplit\obj\Debug\SentenceSplit.exe
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\SentenceSplit\SentenceSplit\obj\Debug\SentenceSplit.pdb
